@@ -1,0 +1,73 @@
+Dependencies for Project 'CP', Target 'Target 1': (DO NOT MODIFY !)
+F (.\system_LPC17xx.c)(0x6598C580)(-c --cpu Cortex-M3 -D__RTX -D__EVAL -D__MICROLIB -g -O0 --apcs=interwork -I E:\KEIL\ARM\RV31\INC-I E:\KEIL\ARM\CMSIS\Include-I E:\KEIL\ARM\Inc\NXP\LPC17xx-o .\system_lpc17xx.o --omf_browse .\system_lpc17xx.crf --depend .\system_lpc17xx.d)
+I (E:\KEIL\ARM\ARMCC\include\stdint.h)(0x51C7E87C)
+I (LPC17xx.h)(0x6598C510)
+I (E:\KEIL\ARM\CMSIS\Include\core_cm3.h)(0x532C1AEA)
+I (E:\KEIL\ARM\CMSIS\Include\core_cmInstr.h)(0x532C1AEA)
+I (E:\KEIL\ARM\CMSIS\Include\core_cmFunc.h)(0x532C1AEA)
+I (system_LPC17xx.h)(0x6598C523)
+F (.\RTX_Conf_CM.c)(0x6598C56B)(-c --cpu Cortex-M3 -D__RTX -D__EVAL -D__MICROLIB -g -O0 --apcs=interwork -I E:\KEIL\ARM\RV31\INC-I E:\KEIL\ARM\CMSIS\Include-I E:\KEIL\ARM\Inc\NXP\LPC17xx-o .\rtx_conf_cm.o --omf_browse .\rtx_conf_cm.crf --depend .\rtx_conf_cm.d)
+I (E:\KEIL\ARM\RV31\INC\RTL.h)(0x532C1630)
+I (E:\KEIL\ARM\RV31\INC\RTX_lib.c)(0x532C1630)
+F (.\startup_LPC17xx.s)(0x6598C579)(--cpu Cortex-M3 --pd "__RTX SETA 1" --pd "__EVAL SETA 1" -g --apcs=interwork --pd "__MICROLIB SETA 1"-I E:\KEIL\ARM\RV31\INC-I E:\KEIL\ARM\CMSIS\Include-I E:\KEIL\ARM\Inc\NXP\LPC17xx--list .\startup_lpc17xx.lst --xref -o .\startup_lpc17xx.o --depend .\startup_lpc17xx.d)
+F (.\SOURCE\HEADER FILES\UART_1768.C)(0x65AA00CB)(-c --cpu Cortex-M3 -D__RTX -D__EVAL -D__MICROLIB -g -O0 --apcs=interwork -I E:\KEIL\ARM\RV31\INC-I E:\KEIL\ARM\CMSIS\Include-I E:\KEIL\ARM\Inc\NXP\LPC17xx-o .\uart_1768.o --omf_browse .\uart_1768.crf --depend .\uart_1768.d)
+I (E:\KEIL\ARM\Inc\NXP\LPC17xx\LPC17xx.h)(0x532C1734)
+I (E:\KEIL\ARM\CMSIS\Include\core_cm3.h)(0x532C1AEA)
+I (E:\KEIL\ARM\ARMCC\include\stdint.h)(0x51C7E87C)
+I (E:\KEIL\ARM\CMSIS\Include\core_cmInstr.h)(0x532C1AEA)
+I (E:\KEIL\ARM\CMSIS\Include\core_cmFunc.h)(0x532C1AEA)
+I (E:\KEIL\ARM\Inc\NXP\LPC17xx\system_LPC17xx.h)(0x532C1734)
+I (E:\KEIL\ARM\RV31\INC\RTL.h)(0x532C1630)
+I (E:\KEIL\ARM\ARMCC\include\stdio.h)(0x51C7E87C)
+I (SOURCE\HEADER FILES\UART.H)(0x65A96101)
+F (.\SOURCE\MAIN.C)(0x65ACF360)(-c --cpu Cortex-M3 -D__RTX -D__EVAL -D__MICROLIB -g -O0 --apcs=interwork -I E:\KEIL\ARM\RV31\INC-I E:\KEIL\ARM\CMSIS\Include-I E:\KEIL\ARM\Inc\NXP\LPC17xx-o .\main.o --omf_browse .\main.crf --depend .\main.d)
+I (E:\KEIL\ARM\RV31\INC\RTL.h)(0x532C1630)
+I (E:\KEIL\ARM\Inc\NXP\LPC17xx\LPC17xx.h)(0x532C1734)
+I (E:\KEIL\ARM\CMSIS\Include\core_cm3.h)(0x532C1AEA)
+I (E:\KEIL\ARM\ARMCC\include\stdint.h)(0x51C7E87C)
+I (E:\KEIL\ARM\CMSIS\Include\core_cmInstr.h)(0x532C1AEA)
+I (E:\KEIL\ARM\CMSIS\Include\core_cmFunc.h)(0x532C1AEA)
+I (E:\KEIL\ARM\Inc\NXP\LPC17xx\system_LPC17xx.h)(0x532C1734)
+I (E:\KEIL\ARM\ARMCC\include\stdio.h)(0x51C7E87C)
+I (SOURCE\UART.H)(0x65A9610C)
+I (SOURCE\DC.H)(0x65A8A479)
+I (SOURCE\BUZ.H)(0x65AB3806)
+I (SOURCE\TIMER.H)(0x65ACF2CC)
+F (.\SOURCE\DC.C)(0x65AC0751)(-c --cpu Cortex-M3 -D__RTX -D__EVAL -D__MICROLIB -g -O0 --apcs=interwork -I E:\KEIL\ARM\RV31\INC-I E:\KEIL\ARM\CMSIS\Include-I E:\KEIL\ARM\Inc\NXP\LPC17xx-o .\dc.o --omf_browse .\dc.crf --depend .\dc.d)
+I (E:\KEIL\ARM\Inc\NXP\LPC17xx\LPC17xx.h)(0x532C1734)
+I (E:\KEIL\ARM\CMSIS\Include\core_cm3.h)(0x532C1AEA)
+I (E:\KEIL\ARM\ARMCC\include\stdint.h)(0x51C7E87C)
+I (E:\KEIL\ARM\CMSIS\Include\core_cmInstr.h)(0x532C1AEA)
+I (E:\KEIL\ARM\CMSIS\Include\core_cmFunc.h)(0x532C1AEA)
+I (E:\KEIL\ARM\Inc\NXP\LPC17xx\system_LPC17xx.h)(0x532C1734)
+I (E:\KEIL\ARM\RV31\INC\RTL.h)(0x532C1630)
+I (E:\KEIL\ARM\ARMCC\include\stdio.h)(0x51C7E87C)
+I (SOURCE\DC.H)(0x65A8A479)
+F (.\SOURCE\BUZZER.C)(0x65ACE93F)(-c --cpu Cortex-M3 -D__RTX -D__EVAL -D__MICROLIB -g -O0 --apcs=interwork -I E:\KEIL\ARM\RV31\INC-I E:\KEIL\ARM\CMSIS\Include-I E:\KEIL\ARM\Inc\NXP\LPC17xx-o .\buzzer.o --omf_browse .\buzzer.crf --depend .\buzzer.d)
+I (E:\KEIL\ARM\Inc\NXP\LPC17xx\lpc17xx.h)(0x532C1734)
+I (E:\KEIL\ARM\CMSIS\Include\core_cm3.h)(0x532C1AEA)
+I (E:\KEIL\ARM\ARMCC\include\stdint.h)(0x51C7E87C)
+I (E:\KEIL\ARM\CMSIS\Include\core_cmInstr.h)(0x532C1AEA)
+I (E:\KEIL\ARM\CMSIS\Include\core_cmFunc.h)(0x532C1AEA)
+I (E:\KEIL\ARM\Inc\NXP\LPC17xx\system_LPC17xx.h)(0x532C1734)
+I (E:\KEIL\ARM\RV31\INC\RTL.h)(0x532C1630)
+I (SOURCE\BUZ.h)(0x65AB3806)
+F (.\SOURCE\LCD.C)(0x65ACEB8C)(-c --cpu Cortex-M3 -D__RTX -D__EVAL -D__MICROLIB -g -O0 --apcs=interwork -I E:\KEIL\ARM\RV31\INC-I E:\KEIL\ARM\CMSIS\Include-I E:\KEIL\ARM\Inc\NXP\LPC17xx-o .\lcd.o --omf_browse .\lcd.crf --depend .\lcd.d)
+I (E:\KEIL\ARM\Inc\NXP\LPC17xx\lpc17xx.h)(0x532C1734)
+I (E:\KEIL\ARM\CMSIS\Include\core_cm3.h)(0x532C1AEA)
+I (E:\KEIL\ARM\ARMCC\include\stdint.h)(0x51C7E87C)
+I (E:\KEIL\ARM\CMSIS\Include\core_cmInstr.h)(0x532C1AEA)
+I (E:\KEIL\ARM\CMSIS\Include\core_cmFunc.h)(0x532C1AEA)
+I (E:\KEIL\ARM\Inc\NXP\LPC17xx\system_LPC17xx.h)(0x532C1734)
+I (E:\KEIL\ARM\RV31\INC\RTL.H)(0x532C1630)
+I (SOURCE\LCD.H)(0x65AB3EA1)
+F (.\SOURCE\TIMER.C)(0x65ACF368)(-c --cpu Cortex-M3 -D__RTX -D__EVAL -D__MICROLIB -g -O0 --apcs=interwork -I E:\KEIL\ARM\RV31\INC-I E:\KEIL\ARM\CMSIS\Include-I E:\KEIL\ARM\Inc\NXP\LPC17xx-o .\timer.o --omf_browse .\timer.crf --depend .\timer.d)
+I (E:\KEIL\ARM\Inc\NXP\LPC17xx\LPC17xx.h)(0x532C1734)
+I (E:\KEIL\ARM\CMSIS\Include\core_cm3.h)(0x532C1AEA)
+I (E:\KEIL\ARM\ARMCC\include\stdint.h)(0x51C7E87C)
+I (E:\KEIL\ARM\CMSIS\Include\core_cmInstr.h)(0x532C1AEA)
+I (E:\KEIL\ARM\CMSIS\Include\core_cmFunc.h)(0x532C1AEA)
+I (E:\KEIL\ARM\Inc\NXP\LPC17xx\system_LPC17xx.h)(0x532C1734)
+I (E:\KEIL\ARM\RV31\INC\RTL.h)(0x532C1630)
+I (E:\KEIL\ARM\ARMCC\include\stdio.h)(0x51C7E87C)
+I (SOURCE\TIMER.H)(0x65ACF2CC)

@@ -1,0 +1,9 @@
+.\buzzer.o: SOURCE\BUZZER.C
+.\buzzer.o: E:\KEIL\ARM\Inc\NXP\LPC17xx\lpc17xx.h
+.\buzzer.o: E:\KEIL\ARM\CMSIS\Include\core_cm3.h
+.\buzzer.o: E:\KEIL\ARM\ARMCC\bin\..\include\stdint.h
+.\buzzer.o: E:\KEIL\ARM\CMSIS\Include\core_cmInstr.h
+.\buzzer.o: E:\KEIL\ARM\CMSIS\Include\core_cmFunc.h
+.\buzzer.o: E:\KEIL\ARM\Inc\NXP\LPC17xx\system_LPC17xx.h
+.\buzzer.o: E:\KEIL\ARM\RV31\INC\RTL.h
+.\buzzer.o: SOURCE\BUZ.h

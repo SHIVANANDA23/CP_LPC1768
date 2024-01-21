@@ -1,0 +1,76 @@
+<html>
+<body>
+<pre>
+<h1>µVision Build Log</h1>
+<h2>Project:</h2>
+L:\KEIL FILES\OSED\PROJECT\source\COURSE PROJECT\Cp1.uvproj
+Project File Date:  01/06/2024
+
+<h2>Output:</h2>
+Build target 'Target 1'
+compiling RTX_Config.c...
+RTX_Config.c(13): error:  #5: cannot open source input file "LPC21xx.H": No such file or directory
+assembling Startup.s...
+Startup.s(228): error: A1630E: Specified processor or architecture does not support ARM instructions
+Startup.s(375): error: A1715E: Special register 'CPSR_c' not defined on target architecture
+Startup.s(380): error: A1715E: Special register 'CPSR_c' not defined on target architecture
+Startup.s(385): error: A1715E: Special register 'CPSR_c' not defined on target architecture
+Startup.s(390): error: A1715E: Special register 'CPSR_c' not defined on target architecture
+Startup.s(395): error: A1715E: Special register 'CPSR_c' not defined on target architecture
+Startup.s(400): error: A1715E: Special register 'CPSR_c' not defined on target architecture
+compiling Hello.c...
+Target not created
+Build target 'Target 1'
+assembling Startup.s...
+Startup.s(228): error: A1630E: Specified processor or architecture does not support ARM instructions
+Startup.s(375): error: A1715E: Special register 'CPSR_c' not defined on target architecture
+Startup.s(380): error: A1715E: Special register 'CPSR_c' not defined on target architecture
+Startup.s(385): error: A1715E: Special register 'CPSR_c' not defined on target architecture
+Startup.s(390): error: A1715E: Special register 'CPSR_c' not defined on target architecture
+Startup.s(395): error: A1715E: Special register 'CPSR_c' not defined on target architecture
+Startup.s(400): error: A1715E: Special register 'CPSR_c' not defined on target architecture
+compiling Hello.c...
+Target not created
+Build target 'Target 1'
+assembling Startup.s...
+Startup.s(228): error: A1630E: Specified processor or architecture does not support ARM instructions
+Startup.s(375): error: A1715E: Special register 'CPSR_c' not defined on target architecture
+Startup.s(380): error: A1715E: Special register 'CPSR_c' not defined on target architecture
+Startup.s(385): error: A1715E: Special register 'CPSR_c' not defined on target architecture
+Startup.s(390): error: A1715E: Special register 'CPSR_c' not defined on target architecture
+Startup.s(395): error: A1715E: Special register 'CPSR_c' not defined on target architecture
+Startup.s(400): error: A1715E: Special register 'CPSR_c' not defined on target architecture
+compiling Hello.c...
+compiling RTX_Conf_CM.c...
+Target not created
+Build target 'Target 1'
+compiling Hello.c...
+compiling RTX_Conf_CM.c...
+assembling startup_LPC17xx.s...
+linking...
+Cp1.axf: Error: L6218E: Undefined symbol os_set_env (referred from hello.o).
+Cp1.axf: Error: L6218E: Undefined symbol rt_dly_wait (referred from hello.o).
+Cp1.axf: Error: L6218E: Undefined symbol rt_sys_init (referred from hello.o).
+Cp1.axf: Error: L6218E: Undefined symbol rt_tsk_create (referred from hello.o).
+Cp1.axf: Error: L6218E: Undefined symbol rt_tsk_delete (referred from hello.o).
+Cp1.axf: Error: L6218E: Undefined symbol rt_mut_init (referred from rtx_conf_cm.o).
+Cp1.axf: Error: L6218E: Undefined symbol rt_mut_release (referred from rtx_conf_cm.o).
+Cp1.axf: Error: L6218E: Undefined symbol rt_mut_wait (referred from rtx_conf_cm.o).
+Cp1.axf: Error: L6218E: Undefined symbol rt_tsk_self (referred from rtx_conf_cm.o).
+Target not created
+Build target 'Target 1'
+compiling Hello.c...
+compiling RTX_Conf_CM.c...
+assembling startup_LPC17xx.s...
+compiling system_LPC17xx.c...
+linking...
+Cp1.axf: Error: L6218E: Undefined symbol os_set_env (referred from hello.o).
+Cp1.axf: Error: L6218E: Undefined symbol rt_dly_wait (referred from hello.o).
+Cp1.axf: Error: L6218E: Undefined symbol rt_sys_init (referred from hello.o).
+Cp1.axf: Error: L6218E: Undefined symbol rt_tsk_create (referred from hello.o).
+Cp1.axf: Error: L6218E: Undefined symbol rt_tsk_delete (referred from hello.o).
+Cp1.axf: Error: L6218E: Undefined symbol rt_mut_init (referred from rtx_conf_cm.o).
+Cp1.axf: Error: L6218E: Undefined symbol rt_mut_release (referred from rtx_conf_cm.o).
+Cp1.axf: Error: L6218E: Undefined symbol rt_mut_wait (referred from rtx_conf_cm.o).
+Cp1.axf: Error: L6218E: Undefined symbol rt_tsk_self (referred from rtx_conf_cm.o).
+Target not created

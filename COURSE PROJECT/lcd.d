@@ -1,0 +1,9 @@
+.\lcd.o: SOURCE\LCD.C
+.\lcd.o: E:\KEIL\ARM\Inc\NXP\LPC17xx\lpc17xx.h
+.\lcd.o: E:\KEIL\ARM\CMSIS\Include\core_cm3.h
+.\lcd.o: E:\KEIL\ARM\ARMCC\bin\..\include\stdint.h
+.\lcd.o: E:\KEIL\ARM\CMSIS\Include\core_cmInstr.h
+.\lcd.o: E:\KEIL\ARM\CMSIS\Include\core_cmFunc.h
+.\lcd.o: E:\KEIL\ARM\Inc\NXP\LPC17xx\system_LPC17xx.h
+.\lcd.o: E:\KEIL\ARM\RV31\INC\RTL.H
+.\lcd.o: SOURCE\LCD.H

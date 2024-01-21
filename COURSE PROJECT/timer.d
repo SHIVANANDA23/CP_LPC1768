@@ -1,0 +1,10 @@
+.\timer.o: SOURCE\TIMER.C
+.\timer.o: E:\KEIL\ARM\Inc\NXP\LPC17xx\LPC17xx.h
+.\timer.o: E:\KEIL\ARM\CMSIS\Include\core_cm3.h
+.\timer.o: E:\KEIL\ARM\ARMCC\bin\..\include\stdint.h
+.\timer.o: E:\KEIL\ARM\CMSIS\Include\core_cmInstr.h
+.\timer.o: E:\KEIL\ARM\CMSIS\Include\core_cmFunc.h
+.\timer.o: E:\KEIL\ARM\Inc\NXP\LPC17xx\system_LPC17xx.h
+.\timer.o: E:\KEIL\ARM\RV31\INC\RTL.h
+.\timer.o: E:\KEIL\ARM\ARMCC\bin\..\include\stdio.h
+.\timer.o: SOURCE\TIMER.H

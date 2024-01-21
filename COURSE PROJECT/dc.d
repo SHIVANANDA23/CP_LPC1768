@@ -1,0 +1,10 @@
+.\dc.o: SOURCE\DC.C
+.\dc.o: E:\KEIL\ARM\Inc\NXP\LPC17xx\LPC17xx.h
+.\dc.o: E:\KEIL\ARM\CMSIS\Include\core_cm3.h
+.\dc.o: E:\KEIL\ARM\ARMCC\bin\..\include\stdint.h
+.\dc.o: E:\KEIL\ARM\CMSIS\Include\core_cmInstr.h
+.\dc.o: E:\KEIL\ARM\CMSIS\Include\core_cmFunc.h
+.\dc.o: E:\KEIL\ARM\Inc\NXP\LPC17xx\system_LPC17xx.h
+.\dc.o: E:\KEIL\ARM\RV31\INC\RTL.h
+.\dc.o: E:\KEIL\ARM\ARMCC\bin\..\include\stdio.h
+.\dc.o: SOURCE\DC.H
